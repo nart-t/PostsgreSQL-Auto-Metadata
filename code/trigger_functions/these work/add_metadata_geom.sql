@@ -1,4 +1,9 @@
-﻿-- Function: public.add_metadata_geom()
+-- Loader. Copyright (c) Nart Tamash.
+-- Licensed under [GNU GPLv3](https://bit.ly/2HGhaNl).
+
+
+
+-- Function: public.add_metadata_geom()
 
 -- DROP FUNCTION public.add_metadata_geom();
 
