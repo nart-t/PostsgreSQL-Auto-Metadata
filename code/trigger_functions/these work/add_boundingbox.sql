@@ -1,3 +1,8 @@
+-- Loader. Copyright (c) Nart Tamash.
+-- Licensed under [GNU GPLv3](https://bit.ly/2HGhaNl).
+
+
+
 -- Function: public.add_boundingbox()
 
 -- DROP FUNCTION public.add_boundingbox();
