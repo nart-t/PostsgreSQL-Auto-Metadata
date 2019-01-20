@@ -1,3 +1,8 @@
+-- Loader. Copyright (c) Nart Tamash.
+-- Licensed under [GNU GPLv3](https://bit.ly/2HGhaNl).
+
+
+
 CREATE TABLE public.metadata
 (
   id integer NOT NULL DEFAULT nextval('metadata_id_seq1'::regclass),
