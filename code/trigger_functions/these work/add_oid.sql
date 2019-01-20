@@ -1,4 +1,9 @@
-﻿-- Function: public.add_oid()
+-- Loader. Copyright (c) Nart Tamash.
+-- Licensed under [GNU GPLv3](https://bit.ly/2HGhaNl).
+
+
+
+-- Function: public.add_oid()
 
 -- DROP FUNCTION public.add_oid();
 
