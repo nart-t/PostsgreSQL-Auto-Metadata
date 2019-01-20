@@ -1,4 +1,9 @@
-﻿-- Function: public.add_resp_party()
+-- Loader. Copyright (c) Nart Tamash.
+-- Licensed under [GNU GPLv3](https://bit.ly/2HGhaNl).
+
+
+
+-- Function: public.add_resp_party()
 
 -- DROP FUNCTION public.add_resp_party();
 
