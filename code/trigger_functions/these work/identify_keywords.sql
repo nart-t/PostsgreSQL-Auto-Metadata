@@ -1,3 +1,8 @@
+-- Loader. Copyright (c) Nart Tamash.
+-- Licensed under [GNU GPLv3](https://bit.ly/2HGhaNl).
+
+
+
 -- Function: public.identify_keywords()
 
 -- DROP FUNCTION public.identify_keywords();
