@@ -1,3 +1,8 @@
+-- Loader. Copyright (c) Nart Tamash.
+-- Licensed under [GNU GPLv3](https://bit.ly/2HGhaNl).
+
+
+
 -- Function: public.create_dataset_update_trigger()
 
 -- DROP FUNCTION public.create_dataset_update_trigger();
