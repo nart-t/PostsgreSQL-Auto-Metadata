@@ -1,3 +1,8 @@
+-- Loader. Copyright (c) Nart Tamash.
+-- Licensed under [GNU GPLv3](https://bit.ly/2HGhaNl).
+
+
+
 CREATE TABLE public.database_groups
 (
   group_name character varying,
